@@ -1,7 +1,7 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 *.iml
 
-# out/
+out/
 
 ## Directory-based project format:
 .idea/
