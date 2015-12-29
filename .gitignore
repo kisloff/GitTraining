@@ -5,6 +5,7 @@ out/
 
 ## Directory-based project format:
 .idea/
+.idea/workspace.xml
 
 ## File-based project format:
 *.ipr
